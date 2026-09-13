@@ -1,0 +1,6 @@
+{
+  "name": "KwanzaPOS - Sistema de PDV Offline-First",
+  "description": "Sistema de PDV profissional híbrido Offline-First com moeda Kwanza (Kz), sincronização Supabase, perfis de acesso, frente de caixa rápida, controle de estoque e dashboard analítico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
